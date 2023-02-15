@@ -1,0 +1,19 @@
+{
+  "name": "web-playground",
+  "version": "1.0.0",
+  "description": "Learning web stuff yay",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslichampion/web-playground.git"
+  },
+  "author": "Asli Champion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aslichampion/web-playground/issues"
+  },
+  "homepage": "https://github.com/aslichampion/web-playground#readme"
+}
